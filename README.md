@@ -1,5 +1,5 @@
 # labeled_data
-True label, abslute_height, height_difference, slope, roughness_1, roughness_2, vision_prediction
+True label, abslute_height, height_difference, slope, roughness_1, roughness_2, vision_prediction, row, col
 
     base_path_geo_result = '/home/xi/workspace/labels/output/' + rosbag_name + '/' + rosbag_name + '_'
     for i in range(index_start, index_end):   
